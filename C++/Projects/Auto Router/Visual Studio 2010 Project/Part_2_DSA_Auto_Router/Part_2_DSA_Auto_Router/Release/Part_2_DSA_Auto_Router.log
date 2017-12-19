@@ -1,0 +1,36 @@
+﻿Build started 13/04/2015 12:24:48 AM.
+     1>Project "c:\Users\multi_000\documents\visual studio 2010\Projects\Part_2_DSA_Auto_Router\Part_2_DSA_Auto_Router\Part_2_DSA_Auto_Router.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "c:\users\multi_000\documents\visual studio 2010\Projects\Part_2_DSA_Auto_Router\Release\".
+       InitializeBuildStatus:
+         Creating "Release\Part_2_DSA_Auto_Router.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt AStarRouter.cpp Grid.cpp GridUpdate.cpp Main.cpp PathFinder.cpp
+         AStarRouter.cpp
+     1>AStarRouter.cpp(146): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>AStarRouter.cpp(153): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+         Grid.cpp
+     1>Grid.cpp(68): warning C4244: '=' : conversion from 'std::streamsize' to 'int', possible loss of data
+         GridUpdate.cpp
+         Main.cpp
+         PathFinder.cpp
+     1>PathFinder.cpp(47): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\multi_000\documents\visual studio 2010\Projects\Part_2_DSA_Auto_Router\Release\Part_2_DSA_Auto_Router.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\Part_2_DSA_Auto_Router.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"c:\users\multi_000\documents\visual studio 2010\Projects\Part_2_DSA_Auto_Router\Release\Part_2_DSA_Auto_Router.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\multi_000\documents\visual studio 2010\Projects\Part_2_DSA_Auto_Router\Release\Part_2_DSA_Auto_Router.lib" /MACHINE:X86 Release\AStarRouter.obj
+         Release\Grid.obj
+         Release\GridUpdate.obj
+         Release\Main.obj
+         Release\PathFinder.obj
+         Generating code
+         Finished generating code
+         Part_2_DSA_Auto_Router.vcxproj -> c:\users\multi_000\documents\visual studio 2010\Projects\Part_2_DSA_Auto_Router\Release\Part_2_DSA_Auto_Router.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"c:\users\multi_000\documents\visual studio 2010\Projects\Part_2_DSA_Auto_Router\Release\Part_2_DSA_Auto_Router.exe;#1" /manifest Release\Part_2_DSA_Auto_Router.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Release\Part_2_DSA_Auto_Router.unsuccessfulbuild".
+         Touching "Release\Part_2_DSA_Auto_Router.lastbuildstate".
+     1>Done Building Project "c:\Users\multi_000\documents\visual studio 2010\Projects\Part_2_DSA_Auto_Router\Part_2_DSA_Auto_Router\Part_2_DSA_Auto_Router.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.97
