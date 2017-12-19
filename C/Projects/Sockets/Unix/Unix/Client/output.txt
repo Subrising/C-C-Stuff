@@ -1,0 +1,16 @@
+.
+..
+checking.txt
+fuckingwork.txt
+lsSort.c
+lssort.exe
+lstemp.txt
+lstest.txt
+main.exe
+main.exe.stackdump
+makefile
+src
+test.txt
+test3.txt
+yunowork.txt
+òª0Z

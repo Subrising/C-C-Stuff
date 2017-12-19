@@ -1,0 +1,5 @@
+﻿  assignment1client.c
+c:\users\multi\documents\visual studio 2015\projects\assignment1client\assignment1client\assignment1client.c(55): warning C4013: 'signal' undefined; assuming extern returning int
+c:\users\multi\documents\visual studio 2015\projects\assignment1client\assignment1client\assignment1client.c(103): warning C4013: 'gets' undefined; assuming extern returning int
+  assignment1client.vcxproj -> C:\Users\multi\documents\visual studio 2015\Projects\assignment1client\Debug\assignment1client.exe
+  assignment1client.vcxproj -> C:\Users\multi\documents\visual studio 2015\Projects\assignment1client\Debug\assignment1client.pdb (Full PDB)

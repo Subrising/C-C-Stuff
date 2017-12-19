@@ -1,0 +1,10 @@
+C:\Users\multi\documents\visual studio 2015\Projects\assignment1\assignment1\assignment1.c
+C:\Users\multi\documents\visual studio 2015\Projects\assignment1\assignment1\assignment1.vcxproj
+C:\Users\multi\documents\visual studio 2015\Projects\assignment1\assignment1\assignment1.vcxproj.filters
+C:\Users\multi\documents\visual studio 2015\Projects\assignment1\assignment1\Debug
+C:\Users\multi\documents\visual studio 2015\Projects\assignment1\assignment1\ReadMe.txt
+C:\Users\multi\documents\visual studio 2015\Projects\assignment1\assignment1\sort.txt
+C:\Users\multi\documents\visual studio 2015\Projects\assignment1\assignment1\stdafx.c
+C:\Users\multi\documents\visual studio 2015\Projects\assignment1\assignment1\stdafx.h
+C:\Users\multi\documents\visual studio 2015\Projects\assignment1\assignment1\targetver.h
+C:\Users\multi\documents\visual studio 2015\Projects\assignment1\assignment1\usersmultidocuments

@@ -1,0 +1,9 @@
+.
+..
+checking.txt
+lstemp.txt
+lstest.txt
+makefile
+server.exe
+src
+test.txt

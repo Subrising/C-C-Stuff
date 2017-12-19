@@ -1,0 +1,11 @@
+﻿  assignment1.c
+c:\users\multi\documents\visual studio 2015\projects\assignment1\assignment1\assignment1.c(87): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+c:\users\multi\documents\visual studio 2015\projects\assignment1\assignment1\assignment1.c(87): warning C4024: 'send': different types for formal and actual parameter 4
+c:\users\multi\documents\visual studio 2015\projects\assignment1\assignment1\assignment1.c(98): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+c:\users\multi\documents\visual studio 2015\projects\assignment1\assignment1\assignment1.c(98): warning C4024: 'recv': different types for formal and actual parameter 4
+c:\users\multi\documents\visual studio 2015\projects\assignment1\assignment1\assignment1.c(158): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+c:\users\multi\documents\visual studio 2015\projects\assignment1\assignment1\assignment1.c(158): warning C4024: 'send': different types for formal and actual parameter 4
+c:\users\multi\documents\visual studio 2015\projects\assignment1\assignment1\assignment1.c(167): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+c:\users\multi\documents\visual studio 2015\projects\assignment1\assignment1\assignment1.c(167): warning C4024: 'send': different types for formal and actual parameter 4
+  assignment1.vcxproj -> C:\Users\multi\Documents\Visual Studio 2015\Projects\assignment1\Debug\assignment1.exe
+  assignment1.vcxproj -> C:\Users\multi\Documents\Visual Studio 2015\Projects\assignment1\Debug\assignment1.pdb (Full PDB)
