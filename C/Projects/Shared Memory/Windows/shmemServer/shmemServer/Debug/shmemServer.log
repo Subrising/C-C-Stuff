@@ -1,0 +1,13 @@
+﻿  shmemServer.c
+c:\users\multi\documents\visual studio 2015\projects\shmemserver\shmemserver\shmemserver.c(141): warning C4113: 'void (__cdecl *)()' differs in parameter lists from '_crt_signal_t'
+c:\users\multi\documents\visual studio 2015\projects\shmemserver\shmemserver\shmemserver.c(249): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\multi\documents\visual studio 2015\projects\shmemserver\shmemserver\shmemserver.c(202): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\multi\documents\visual studio 2015\projects\shmemserver\shmemserver\shmemserver.c(304): warning C4129: 'M': unrecognized character escape sequence
+c:\users\multi\documents\visual studio 2015\projects\shmemserver\shmemserver\shmemserver.c(327): warning C4133: '=': incompatible types - from 'LPTSTR' to 'Shmem *'
+c:\users\multi\documents\visual studio 2015\projects\shmemserver\shmemserver\shmemserver.c(401): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+c:\users\multi\documents\visual studio 2015\projects\shmemserver\shmemserver\shmemserver.c(424): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\multi\documents\visual studio 2015\projects\shmemserver\shmemserver\shmemserver.c(462): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\multi\documents\visual studio 2015\projects\shmemserver\shmemserver\shmemserver.c(466): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\multi\documents\visual studio 2015\projects\shmemserver\shmemserver\shmemserver.c(287): warning C4101: 'rNumbers': unreferenced local variable
+  shmemServer.vcxproj -> C:\Users\multi\Documents\Visual Studio 2015\Projects\shmemServer\Debug\shmemServer.exe
+  shmemServer.vcxproj -> C:\Users\multi\Documents\Visual Studio 2015\Projects\shmemServer\Debug\shmemServer.pdb (Full PDB)

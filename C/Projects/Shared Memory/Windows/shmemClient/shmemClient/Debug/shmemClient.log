@@ -1,0 +1,16 @@
+﻿  shmemClient.c
+c:\users\multi\documents\visual studio 2015\projects\shmemclient\shmemclient\shmemclient.c(70): warning C4129: 'M': unrecognized character escape sequence
+c:\users\multi\documents\visual studio 2015\projects\shmemclient\shmemclient\shmemclient.c(112): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+c:\users\multi\documents\visual studio 2015\projects\shmemclient\shmemclient\shmemclient.c(125): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\multi\documents\visual studio 2015\projects\shmemclient\shmemclient\shmemclient.c(155): warning C4273: 'kbhit': inconsistent dll linkage
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(458): note: see previous definition of 'kbhit'
+c:\users\multi\documents\visual studio 2015\projects\shmemclient\shmemclient\shmemclient.c(187): warning C4098: 'runClient': 'void' function returning a value
+c:\users\multi\documents\visual studio 2015\projects\shmemclient\shmemclient\shmemclient.c(194): warning C4133: '=': incompatible types - from 'LPTSTR' to 'Shmem *'
+c:\users\multi\documents\visual studio 2015\projects\shmemclient\shmemclient\shmemclient.c(229): warning C4098: 'runClient': 'void' function returning a value
+c:\users\multi\documents\visual studio 2015\projects\shmemclient\shmemclient\shmemclient.c(214): warning C4101: 'start': unreferenced local variable
+c:\users\multi\documents\visual studio 2015\projects\shmemclient\shmemclient\shmemclient.c(211): warning C4101: 'id': unreferenced local variable
+c:\users\multi\documents\visual studio 2015\projects\shmemclient\shmemclient\shmemclient.c(212): warning C4101: 'number': unreferenced local variable
+c:\users\multi\documents\visual studio 2015\projects\shmemclient\shmemclient\shmemclient.c(213): warning C4101: 'slot': unreferenced local variable
+c:\users\multi\documents\visual studio 2015\projects\shmemclient\shmemclient\shmemclient.c(406): warning C4113: 'void (__cdecl *)()' differs in parameter lists from '_crt_signal_t'
+  shmemClient.vcxproj -> C:\Users\multi\Documents\Visual Studio 2015\Projects\shmemClient\Debug\shmemClient.exe
+  shmemClient.vcxproj -> C:\Users\multi\Documents\Visual Studio 2015\Projects\shmemClient\Debug\shmemClient.pdb (Full PDB)
